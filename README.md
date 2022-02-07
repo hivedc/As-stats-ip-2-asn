@@ -15,4 +15,6 @@ Launch script
 
 Backup your old asinfo.txt 
 > **mv** asinfo.txt asinfo.txt.old
+
+
 You may then copy this file to your As-stats folder
