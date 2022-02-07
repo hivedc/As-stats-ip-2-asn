@@ -13,4 +13,6 @@ Chmod to execute file
 Launch script
 > **python3** ./ip_json_creator.py --name filename --of ./location
 
+Backup your old asinfo.txt 
+> **mv** asinfo.txt asinfo.txt.old
 You may then copy this file to your As-stats folder
