@@ -11,6 +11,6 @@ Chmod to execute file
 > **sudo chmod +x** ./ip_json_creator.py
 
 Launch script
-> **python3** ./ip_json_creator.py --name LeNomDuFichier --of ./emplacement
+> **python3** ./ip_json_creator.py --name filename --of ./location
 
 You may then copy this file to your As-stats folder
